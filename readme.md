@@ -12,7 +12,7 @@ We will reinterpret an existing artwork.
 Our team will reinterpret *The Starry Night* as an interactive pixel-painting environment. We will preserve the painting’s swirling rhythm, dramatic contrast, and emotional night atmosphere, then translate these qualities into a grid-based visual system. Instead of copying the original image directly, we will rebuild the scene as living pixel blocks that react to sound, user input, and controlled randomness. Our main inspiration comes from van Gogh’s brush movement and from pixel-art nightscape aesthetics that simplify detail into readable color clusters. Through this approach, we aim to connect classical fine art and contemporary creative coding, so the audience can “play” the painting while still recognizing its iconic visual identity.
 
 ### Inspiration Images
-![The Starry Night by Vincent van Gogh](https://commons.wikimedia.org/wiki/Special:FilePath/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![The Starry Night by Vincent van Gogh](assets/images/starry-night-hd.jpg)
 
 ![The Starry Night detail inspiration](https://commons.wikimedia.org/wiki/Special:FilePath/Van-gogh-starry-night-lower-right.jpg)
 
