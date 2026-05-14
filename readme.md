@@ -14,6 +14,8 @@ Our team will reinterpret *The Starry Night* as an interactive pixel-painting en
 ### Inspiration Images
 ![The Starry Night by Vincent van Gogh](assets/images/starry-night-hd.jpg)
 
+![Interactive Starry Night inspiration (1:27-1:34)](assets/images/interactive-starry-night-1m27-1m34.gif)
+
 ### Inspiration Sources
 - [MoMA collection entry: The Starry Night](https://www.moma.org/collection/works/79802)
 - [Wikimedia: Van Gogh - The Starry Night](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
