@@ -42,9 +42,6 @@ The user input mechanism enables viewers to directly control specific parts of t
 ### Perlin Noise and Randomness Mechanic (Shuaiyu Zhou, szho0686)
 The Perlin noise and randomness mechanic provides organic variation so the piece never feels repetitive or mechanically looped. My mechanic uses Perlin noise and randomness to recreate the expressive movement of Van Gogh’s The Starry Night. Randomness is used to generate varied brush strokes, star positions, colours, and sizes, so the image feels hand-painted rather than uniform. Perlin noise controls the movement, brightness, and direction of these elements over time, creating a smooth flowing effect instead of harsh random motion. This connects to the project vision by translating Van Gogh’s swirling brushwork and emotional night sky into a living digital system. This mechanic connects to our vision by translating van Gogh’s expressive unpredictability into code: instead of fixed pixels, the scene behaves like a living painted system where order and variation coexist.
 
-### Mechanics Reference Image
-![FFT and interactive visualization reference](https://i.ytimg.com/vi/2O3nm0Nvbi4/hqdefault.jpg)
-
 ---
 
 ## Part 3: Putting It Together
