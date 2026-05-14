@@ -14,9 +14,9 @@ Our project vision is to reinterpret a classical artwork through pixelization an
 ### Inspiration Images
 ![The Starry Night by Vincent van Gogh](assets/images/starry-night-hd.jpg)
 
-![Interactive Starry Night inspiration (1:27-1:34)](assets/images/mechanical-masterpieces-15s-22s.gif)
+![Interactive Starry Night inspiration (1:27-1:34)](assets/images/interactive-starry-night-1m27-1m34.gif)
 
-![Interactive Starry Night inspiration (1:27-1:34) - previous version](assets/images/interactive-starry-night-1m27-1m34.gif)
+![Mechanical Masterpieces inspiration (15s-22s)](assets/images/mechanical-masterpieces-15s-22s.gif)
 
 ### Inspiration Sources
 - [TrendHunter: The Interactive Starry Night](https://www.trendhunter.com/trends/interactive-starry-night)
@@ -49,4 +49,4 @@ The Perlin noise and randomness mechanic provides organic variation so the piece
 
 ## Part 3: Putting It Together
 
-Our project uses one shared canvas transformed into a pixel grid. Each mechanic controls a different layer of change independently: audio drives global rhythm and intensity, user input edits local pixel behavior, and Perlin noise/randomness adds organic variation over time. Although each mechanic can operate on its own, all outputs are applied to the same pixel system, so the piece stays visually unified while still allowing distinct interaction modes.
+Our project combines all mechanics on one shared pixel canvas, but separates the painting into key regions: stars, the overall night-sky background, and the trees/village area. The stars are controlled by Perlin noise and randomness, which modulate star position, size, and flicker behavior. The night-sky background is controlled by mouse interaction, allowing users to influence flow and rotational motion. The trees and village are controlled by audio, so rhythm and intensity make the lower part of the scene feel more alive and inhabited. Together, these layered controls keep one coherent artwork while giving each mechanic a clear role.
