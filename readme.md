@@ -16,6 +16,8 @@ Our team will reinterpret *The Starry Night* as an interactive pixel-painting en
 
 ![Interactive Starry Night inspiration (1:27-1:34)](assets/images/mechanical-masterpieces-15s-22s.gif)
 
+![Interactive Starry Night inspiration (1:27-1:34) - previous version](assets/images/interactive-starry-night-1m27-1m34.gif)
+
 ### Inspiration Sources
 - [TrendHunter: The Interactive Starry Night](https://www.trendhunter.com/trends/interactive-starry-night)
 - [Designboom: Mechanical Masterpieces Reimagines Famous Paintings](https://www.designboom.com/art/mechanical-masterpieces-reimagines-famous-paintings-10-09-2020/)
