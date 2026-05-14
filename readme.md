@@ -46,4 +46,4 @@ The Perlin noise and randomness mechanic provides organic variation so the piece
 
 ## Part 3: Putting It Together
 
-The three mechanics share one canvas and one visual language: a constrained pixel palette based on *The Starry Night*. Audio controls global rhythm and energy, user input controls local edits and mode switching, and Perlin noise plus randomness maintains continuous atmospheric motion between user actions. They influence each other by layering effects rather than replacing one another, so the scene remains coherent. Conceptually, the project is unified by a single question: how can a famous static painting become a living, playable night world while preserving its emotional identity?
+Our project uses one shared canvas transformed into a pixel grid. Each mechanic controls a different layer of change independently: audio drives global rhythm and intensity, user input edits local pixel behavior, and Perlin noise/randomness adds organic variation over time. Although each mechanic can operate on its own, all outputs are applied to the same pixel system, so the piece stays visually unified while still allowing distinct interaction modes.
