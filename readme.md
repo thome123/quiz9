@@ -8,8 +8,8 @@ We will reinterpret an existing artwork.
 ### Artwork and Artist
 **The Starry Night** by **Vincent van Gogh**.
 
-### Team Vision (max 150 words)
-Our team will reinterpret *The Starry Night* as an interactive pixel-painting environment. We will preserve the painting’s swirling rhythm, dramatic contrast, and emotional night atmosphere, then translate these qualities into a grid-based visual system. Instead of copying the original image directly, we will rebuild the scene as living pixel blocks that react to sound, user input, and controlled randomness. Our main inspiration comes from van Gogh’s brush movement and from pixel-art nightscape aesthetics that simplify detail into readable color clusters. Through this approach, we aim to connect classical fine art and contemporary creative coding, so the audience can “play” the painting while still recognizing its iconic visual identity.
+### Team Vision
+Our project vision is to reinterpret a classical artwork through pixelization and transform it into an interactive digital artwork. The original work we chose is *The Starry Night* by Vincent van Gogh. The first key inspiration is *TrendHunter: The Interactive Starry Night*, which showed us how a famous painting can be reimagined with interactive behavior. Our updated concept differs by converting the artwork into a pixel-based system, making visual transformation and control clearer, more modular, and easier to map to mechanics. The second inspiration is *Designboom: Mechanical Masterpieces Reimagines Famous Paintings*. Although that project uses physical mechanical interaction, it inspired our interaction logic. We adapt that idea into computer-based interaction, using creative coding to let users actively reshape a reconstructed classical image.
 
 ### Inspiration Images
 ![The Starry Night by Vincent van Gogh](assets/images/starry-night-hd.jpg)
